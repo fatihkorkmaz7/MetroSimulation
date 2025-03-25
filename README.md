@@ -22,9 +22,9 @@ Projeyi çalıştırmak için gerekli kütüphaneleri yüklemek için aşağıda
     pip install gradio networkx matplotlib
     ```
 
-2. Proje dosyasını indirin ve çalıştırın:
+2. Projeyi klonlayın:
     ```sh
-    python metro_seyahat_rehberim.py
+    git clone https://github.com/fatihkorkmaz7/MetroSimulation.git
     ```
 
 3. Çalıştırdıktan sonra konsolda aşağıdaki gibi bir URL görünecektir:
